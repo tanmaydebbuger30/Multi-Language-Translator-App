@@ -1,8 +1,3 @@
-# Multi-Language-Translator-App
-A multilingual text translator app using Hugging Face's NLLB model and Gradio for interactive UI. Supports translation from English to German, French, Hindi, and more.
-
-
-
 # 🌍 Multi-Language Translator App
 
 This repository contains a simple and interactive multi-language translation web app built using **Gradio** and **Hugging Face Transformers**. It translates English text into various languages using the powerful **NLLB (No Language Left Behind)** model from Facebook AI.
